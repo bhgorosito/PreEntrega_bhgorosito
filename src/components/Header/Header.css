@@ -1,0 +1,21 @@
+.Header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(65, 62, 56);
+    width: 100%;
+    min-height: 27vh;
+    border: 10px solid black;
+}
+
+.Header img {
+    width: 10%;
+}
+
+.Header h1,
+h2 {
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+}
